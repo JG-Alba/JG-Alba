@@ -35,6 +35,11 @@
 💥 **Penetration Testing**: Learning and performing ethical hacking exercises to identify and fix vulnerabilities.  
 📝 **Learning Journey**: Currently focused on mastering network security, incident response, and digital forensics.
 
+### Compilation of projects
+
+💻 **Cybersecurity Projects Repository**: Check out my collection of cybersecurity projects where I showcase my work and share insights on various topics.  
+[Visit my Cibersecurity Repository](https://github.com/JG-Alba/Cibersecurity)
+
 ---
 
 ### Let's Connect!
