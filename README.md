@@ -56,8 +56,7 @@ Feel free to reach out if you'd like to collaborate, discuss cybersecurity, or j
   <a href="https://github.com/JG-Alba">
     <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=website" alt="Website">
   </a>
-  <a href="https://tryhackme.com/r/p/Soramatoi">
-    <img src="https://img.shields.io/badge/TryHackMe-Join-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Soramatoi.png" alt="Your Image Badge" />
   </a>
 </p>
 
